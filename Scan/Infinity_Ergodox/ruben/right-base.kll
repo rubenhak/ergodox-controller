@@ -1,0 +1,37 @@
+Name = Base Right Layer;
+Version = 0.1;
+Author = "Ruben Hakopian 2019";
+KLL = 0.5.7.11;
+
+# Modified Date
+Date = 2019-12-29;
+
+# Top-Middle Row
+S12 : U"Quote";
+S18 : U"Left Brace";
+
+# Middle Row
+S27 : U"Right Brace";
+
+# Bottom-Middle Row
+# S30 : U"Up";
+# S30 : U"Function11";
+S35 : U"Up";
+
+
+# Bottom Row
+S41 : U"Slash";
+S42 : U"Function10";
+S43 : U"Left";
+S44 : U"Down";
+S45 : U"Right";
+
+# Top Thumb Cluster
+S28 : U"Pause";
+S29 : U"Insert";
+
+# Bottom Thumb Cluster
+S37 : U"PageUp";
+S38 : U"PageDown";
+S39 : U"Backspace";
+S40 : U"Enter";

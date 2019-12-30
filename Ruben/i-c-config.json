@@ -547,7 +547,12 @@
             "y": 18,
             "w": 4,
             "h": 4,
-            "layers": {},
+            "layers": {
+                "0": {
+                    "key": "#:LayerLatch[7]",
+                    "label": "LATCH-7"
+                }
+            },
             "triggers": null
         },
         {
@@ -702,6 +707,10 @@
                 "1": {
                     "key": "NUMLOCK",
                     "label": "NMLK"
+                },
+                "7": {
+                    "key": "#:flashMode()",
+                    "label": "FLASH"
                 }
             },
             "triggers": null
@@ -945,13 +954,9 @@
             "w": 4,
             "h": 6,
             "layers": {
-                "2": {
-                    "key": "#:LayerLock[7]",
-                    "label": "LOCK-7"
-                },
-                "7": {
-                    "key": "#:None",
-                    "label": "NONE"
+                "0": {
+                    "key": "#:LayerLatch[7]",
+                    "label": "LATCH-7"
                 }
             },
             "triggers": null
@@ -1200,7 +1205,12 @@
         }
     },
     "canned": {},
-    "defines": [],
+    "defines": [
+        {
+            "name": "STLcdBacklightGreen",
+            "value": "0x0FFF"
+        }
+    ],
     "header": {
         "Name": "MDErgo1",
         "Variant": "standard",

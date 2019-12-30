@@ -1,0 +1,23 @@
+Name = Base Left Layer;
+Version = 0.1;
+Author = "Ruben Hakopian 2019";
+KLL = 0.5.7.11;
+
+# Modified Date
+Date = 2019-12-29;
+
+# Bottom Row
+S41 : U"Function3";
+S42 : U"Function4";
+S43 : U"Function5";
+S45 : U"Function6";
+
+# Top Thumb Cluster
+S28 : U"Function7";
+S29 : U"CapsLock";
+
+# Bottom Thumb Cluster
+S37 : U"Home";
+S38 : U"End";
+S39 : U"Delete";
+S40 : U"Space";
