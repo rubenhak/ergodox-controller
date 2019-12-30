@@ -1,0 +1,35 @@
+Name = Flash Mapper Layer;
+Version = 0.1;
+Author = "Ruben Hakopian 2019";
+KLL = 0.5.7.11;
+
+# Modified Date
+Date = 2019-12-29;
+
+# Top Row - Right
+U"7" : U"Keypad Slash";
+U"8" : U"Keypad Asterisk";
+U"9" : U"Keypad Minus";
+U"0" : U"Keypad Plus";
+
+# Top-Middle Row - Right
+U"Quote" : U"Numlock";
+U"U" : U"Keypad 7";
+U"I" : U"Keypad 8";
+U"O" : U"Keypad 9";
+U"P" : U"Keypad Plus";
+
+# Middle Row - Right
+U"J"         : U"Keypad 4";
+U"K"         : U"Keypad 5";
+U"L"         : U"Keypad 6";
+U"Semicolon" : U"Keypad Plus";
+
+# Bottom-Middle Row - Right
+U"M"      : U"Keypad 1";
+U"Comma"  : U"Keypad 2";
+U"Period" : U"Keypad 3";
+
+# Bottom Row - Right
+U"Slash"      : U"Keypad 0";
+U"Function12" : U"Keypad Period";

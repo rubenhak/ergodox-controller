@@ -22,3 +22,7 @@ Outside Docker:
 dfu-util -D Keyboards/linux-gnu.ICED-L.gcc.ninja/kiibohd.dfu.bin 
 dfu-util -D Keyboards/linux-gnu.ICED-R.gcc.ninja/kiibohd.dfu.bin 
 ```
+
+
+## Docs:
+file:///Users/ruben/Downloads/kll-spec-v0.5.7.1.pdf

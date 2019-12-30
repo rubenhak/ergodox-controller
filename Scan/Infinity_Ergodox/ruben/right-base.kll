@@ -6,6 +6,9 @@ KLL = 0.5.7.11;
 # Modified Date
 Date = 2019-12-29;
 
+# Top Row
+S3 : U"Function10";
+
 # Top-Middle Row
 S12 : U"Quote";
 S18 : U"Left Brace";
@@ -14,14 +17,12 @@ S18 : U"Left Brace";
 S27 : U"Right Brace";
 
 # Bottom-Middle Row
-# S30 : U"Up";
-# S30 : U"Function11";
+S30 : U"Function11";
 S35 : U"Up";
-
 
 # Bottom Row
 S41 : U"Slash";
-S42 : U"Function10";
+S42 : U"Function12";
 S43 : U"Left";
 S44 : U"Down";
 S45 : U"Right";

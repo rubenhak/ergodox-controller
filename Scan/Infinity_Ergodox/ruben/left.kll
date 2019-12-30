@@ -1,0 +1,16 @@
+Name = Left Layer;
+Version = 0.1;
+Author = "Ruben Hakopian 2019";
+KLL = 0.5.7.11;
+
+# Modified Date
+Date = 2019-12-29;
+
+U"Function1" : layerShift( 4 ); # Mac / Windows
+U"Function2" : layerShift( 1 ); # F Keys & Multimedia
+U"Function3" : None;
+U"Function4" : None;
+U"Function5" : None;
+U"Function6" : None;
+U"Function7" : None;
+

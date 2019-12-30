@@ -6,6 +6,12 @@ KLL = 0.5.7.11;
 # Modified Date
 Date = 2019-12-29;
 
+# Top-Middle Row
+S12 : U"Function1";
+
+# Bottom-Middle Row
+S30 : U"Function2";
+
 # Bottom Row
 S41 : U"Function3";
 S42 : U"Function4";

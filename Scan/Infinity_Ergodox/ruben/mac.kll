@@ -1,4 +1,4 @@
-Name = Flash Mapper Layer;
+Name = Left Layer;
 Version = 0.1;
 Author = "Ruben Hakopian 2019";
 KLL = 0.5.7.11;
@@ -6,4 +6,7 @@ KLL = 0.5.7.11;
 # Modified Date
 Date = 2019-12-29;
 
-U"Quote" : layerShift( 3 );
+U"Function3" : U"LGui";
+U"Function4" : U"LAlt";
+U"Function5" : U"LCtrl";
+
