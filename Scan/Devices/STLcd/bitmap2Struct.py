@@ -116,7 +116,7 @@ class ImageToStruct(object):
 
     def __init__(self, filename):
         self.max_height = 32
-        self.max_width = 128
+        self.max_width = 32
         self.x_offset = 0
         self.y_offset = 0
         self.filename = filename
