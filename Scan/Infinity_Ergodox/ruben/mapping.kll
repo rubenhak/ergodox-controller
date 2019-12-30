@@ -7,7 +7,7 @@ KLL = 0.5.7.11;
 Date = 2019-12-29;
 
 # Left
-U"Function1" : layerShift( 4 ); # Mac / Windows
+U"Function1" : layerLock( 4 ); # Mac / Windows
 U"Function2" : layerShift( 1 ); # F Keys & Multimedia
 U"Function3" : None;
 U"Function4" : None;
