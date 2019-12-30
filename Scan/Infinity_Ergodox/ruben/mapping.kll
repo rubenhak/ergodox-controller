@@ -13,7 +13,7 @@ U"Function3" : None;
 U"Function4" : None;
 U"Function5" : None;
 U"Function6" : None;
-U"Function7" : None;
+U"Function7" : U"PrintScreen";
 
 # Right
 U"Function10" : layerLock( 2 );

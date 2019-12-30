@@ -33,3 +33,5 @@ U"Period" : U"Keypad 3";
 # Bottom Row - Right
 U"Slash"      : U"Keypad 0";
 U"Function12" : U"Keypad Period";
+
+U"Enter" : U"Keypad Enter";

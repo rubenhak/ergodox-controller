@@ -13,7 +13,6 @@ docker run -it --rm -v "$(pwd):/controller" controller.ubuntu
 
 Inside Docker:
 ```bash
-cd Keyboards
 pipenv install
 pipenv shell
 ./ergodox.bash
