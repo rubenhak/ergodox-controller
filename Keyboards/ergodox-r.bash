@@ -24,12 +24,12 @@ BuildPath="ICED-R"
 ## KLL Configuration ##
 
 # Generally shouldn't be changed, this will affect every layer
-BaseMap="scancode_map rightHand ruben/right-base" #  slave1 leftHand
+BaseMap="scancode_map rightHand ruben/right-base slave1" # leftHand ruben/left-base
 
 # This is the default layer of the keyboard
 # NOTE: To combine kll files into a single layout, separate them by spaces
 # e.g.  DefaultMap="mylayout mylayoutmod"
-DefaultMap="infinity_ergodox/all-leds ruben/right ruben/mac" # infinity_ergodox/lcdFuncMap 
+DefaultMap="infinity_ergodox/all-leds infinity_ergodox/lcdFuncMap ruben/right ruben/mac" # infinity_ergodox/lcdFuncMap 
 
 # This is where you set the additional layers
 # NOTE: Indexing starts at 1
